@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<!--Molly Kreifels 10/28/2024-->
+<html lang="en">
+    <head>
+        <title>Streaming With Crow</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="styles.css">
+        <style>
+         #wrapper {width: 75%;
+		 margin: auto;}
+
+		ul {text-align: center;
+				color: #FFF;}
+			
+		li {list-style-type: circle;
+				color: #FFF}
+			
+		section {clear: both;
+				padding: 10px;
+				margin-right: auto;
+				margin-left: auto;}
+			
+			* {box-sizing: border-box;}
+			
+        </style>
+    </head>
+    <body>
+        <div id="wrapper">
+            <header>
+                <h1>Streaming With Crow</h1>
+            </header>
+            <nav>
+                <ul>
+                    <li><a href="home.html">Homepage</a></li>
+                    <li><a href="metrics.html">Metrics</a></li>
+                    <li><a href="achievements.html">Achievements</a></li>
+                </ul>
+            </nav>
+    <main>
+        <section>
+             <div class="div1">
+				<h2>Achievements</h2>
+                    <p>Below is a list of my achievements as a streamer, including both activities in games, and some of the charity work I've accomplished.</p>&nbsp;
+					
+						<ul>
+							<li>Over $9000 raised over seven years for Extra Life, benefitting Children's Miracle Network Hospitals</li>
+							<li>Over 380 hours total streaming time since 2020</li>
+							<li>Collaborated with multiple other streamers on various projects, such as co-streaming, guest appearances, etc</li>
+							<li>Worked together with other players and non-streamers on cooperative projects such as group boss fights, charity challenges, etc</li>							
+							<li>Managing streaming with advertisement and promotion</li>
+						</ul>&nbsp;
+						
+					<p>
+						<img src="extralife.png" alt="A screenshot from my Extra Life fundraising page, showing my profile image, my name, a total of $9,285.28 raised, 123 donations, and 8 events.">
+					</p>	
+					
+					<p>Additionally, I also have experience in:</p>&nbps;
+				
+					<ul>
+						<li>Graphic design and flyer development</li>
+						<li>Some video editing</li>
+						<li>Audio setup and tuning</li>
+						<li>PC repair and upgrades, including some laptop<li>
+					</ul>		
+             </div>       
+        </section>
+            </main>
+            <footer>
+                Copyright Molly Kreifels &copy; 2024<br>
+				<a href="mailto@molly.kreifels@gmail.com">Contact</a>
+            </footer>
+        </div>
+    </body>
+</html>
